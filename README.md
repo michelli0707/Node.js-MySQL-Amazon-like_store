@@ -1,1 +1,1 @@
-# Node.js-MySQL-Amazon-like_store
+# Node.js and MySQL a CLI Amazon type of store.
